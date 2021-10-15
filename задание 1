@@ -1,0 +1,6 @@
+file = open('data.txt', 'r')
+while a < b:
+    if  a % 5 == 0:
+     list =[a]
+    a += 1
+print (map(list))
