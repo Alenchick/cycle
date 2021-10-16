@@ -1,0 +1,7 @@
+a = 14
+b = 0
+s = 0
+while b <= a:
+    s = b +s
+    b += 1
+print(s)
